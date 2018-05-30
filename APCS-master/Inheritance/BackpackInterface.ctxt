@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BackpackInterface
+comment1.params=x
+comment1.target=boolean\ storeItem(Item)
+comment2.params=
+comment2.target=int\ countItems()
+numComments=3

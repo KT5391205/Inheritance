@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Weapon
+comment1.params=
+comment1.target=int\ attack()
+comment2.params=
+comment2.target=int\ damage()
+comment3.params=target
+comment3.target=void\ makeAttack(Character)
+comment4.params=attack
+comment4.target=boolean\ parry(int)
+numComments=5
