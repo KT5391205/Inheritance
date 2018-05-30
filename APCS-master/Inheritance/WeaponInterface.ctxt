@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.target=WeaponInterface
-comment1.params=t
-comment1.target=int\ attack(Character)
-comment2.params=a
-comment2.target=boolean\ parry(int)
+comment1.params=
+comment1.target=int\ attack()
+comment2.params=w\ a
+comment2.target=boolean\ parry(Weapon,\ int)
 numComments=3

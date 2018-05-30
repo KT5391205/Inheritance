@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Shortbow
+comment1.params=b
+comment1.target=Shortbow(int)
+comment2.params=
+comment2.target=int\ getBabyArrows()
+numComments=3

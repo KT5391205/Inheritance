@@ -1,4 +1,4 @@
 public interface DefenseCommands
 {
-    boolean blocked();
+    boolean blocked(int a);
 }

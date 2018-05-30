@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Longsword
+comment1.params=h
+comment1.target=Longsword(double)
+comment2.params=
+comment2.target=double\ getHands()
+numComments=3

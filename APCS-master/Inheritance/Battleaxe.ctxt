@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Battleaxe
+comment1.params=b
+comment1.target=Battleaxe(int)
+comment2.params=
+comment2.target=int\ getBlades()
+numComments=3

@@ -1,5 +1,5 @@
 public interface WeaponInterface
 {
-    int attack(Character t);
-    boolean parry(int a);
+    int attack();
+    boolean parry(Weapon w, int a);
 }
